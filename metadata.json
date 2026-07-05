@@ -1,0 +1,6 @@
+{
+  "name": "SensiTech",
+  "description": "Plateforme d'évaluation d'impact anonyme pour les campagnes de sensibilisation d'ONG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
